@@ -14,13 +14,13 @@ path路径自动设置为：/自定义UUID码-vless 或 /自定义UUID码-vmess
 ### 代理协议：vless+ws+tls 或 vmess+ws+tls
 * 服务器地址：自选ip（如：icook.tw）或者：应用程序名.herokuapp.com
 * 端口：443
-* 默认UUID： https://www.crazygames.com-vmess
+* 默认UUID：7b7369d5-bb46-4198-a1ac-b74b2d2b9953
 * 加密：none
 * 传输协议：ws
 * 伪装类型：none
-* 伪装host：****.workers.dev(CF Workers反代地址)或者：应用程序名.herokuapp.com
-* SNI地址：****.workers.dev(CF Workers反代地址)或者：应用程序名.herokuapp.com
-* path路径：/https://www.crazygames.com-vmess    (注意：前有斜杠/)
+* 伪装host：https://www.canva.com(CF Workers反代地址)或者：应用程序名.herokuapp.com
+* SNI地址：https://www.canva.com(CF Workers反代地址)或者：应用程序名.herokuapp.com
+* path路径：/7b7369d5-bb46-4198-a1ac-b74b2d2b9953  (注意：前有斜杠/)
 * vmess额外id（alterid）：0
 * 底层传输安全：tls
 * 跳过证书验证：false
